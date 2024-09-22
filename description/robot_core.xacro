@@ -3,19 +3,19 @@
 
     <material name = "white">
         <color rgba = "1 1 1 1"/>
-    </materal>
+    </material>
 
     <material name = "orange">
         <color rgba = "1 0.3 0.1 1"/>
-    </materal>
+    </material>
 
     <material name = "blue">
         <color rgba = "0.2 0.2 1 1"/>
-    </materal>
+    </material>
 
     <material name = "black">
         <color rgba = "0 0 0 1"/>
-    </materal>
+    </material>
 
     <link name="base_link">
 
