@@ -33,6 +33,8 @@
             <geometry>
                 <box size= "0.3 0.3 0.15">
             </geometry>
+            <material name = "white">
         </visual>
+    </link>
 
 </robot>
