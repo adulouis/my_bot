@@ -19,7 +19,7 @@
    <!--Converting from the ros coordinate system to camera coordinate system 
         we rotate the the camera link-->
 
-    <joint name="camera_joint" type="fixed">
+    <joint name="camera_joint_optical" type="fixed">
         <parent link="camera_link"/>
         <child link="camera_link_optical"/>
         <origin xyz="0.0 0.0 0.0" rpy="-1.571 0.0 -1.571"/> 
